@@ -1,14 +1,16 @@
 body {
     text-align: center;
-    background-color: darkcyan;
-    color: white;
+    background: url("./bg.jpg") orange no-repeat fixed ;
+    color: black;
 }
 
-#pIntro{
-    border:1px solid black;
-    padding: 10px;
+#Allcontent{
+    background-color: rgba(218, 198, 198, 0.6);
+    background-attachment: fixed;
+    border: thin solid transparent;
+    border-radius: 20px;
+    margin: auto 70px;
 }
-
 a{
-    color: white;
+    color: black;
 }
