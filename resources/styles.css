@@ -11,6 +11,18 @@ body {
     border-radius: 20px;
     margin: auto 70px;
 }
+
+table,th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin: 50px 0px 50px 300px;
+    text-align: left;
+    padding: 5px;
+}
+table{
+    width: 70%;
+}
+
 a{
     color: black;
 }
